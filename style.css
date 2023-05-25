@@ -14,13 +14,13 @@ section .container{
    
     padding: 40px 0;
 }
-/* 
+
 section .container nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-section .container nav .navRight{
+/* section .container nav .navRight{
     display: flex;
     align-items: center;
     column-gap: 25px;
@@ -34,8 +34,8 @@ section .container nav .navRight ul li{
     font-size: 20px;
     font-weight: bold;
     text-transform: capitalize;
-}
-section .container nav .navRight .buttonWrapper button{
+} */
+/* section .container nav .navRight .buttonWrapper button{
     padding: 20px 45px;
     border: 0;
     background-color: #f4f6f6;
@@ -47,11 +47,11 @@ section .container nav .navRight .buttonWrapper button{
 section .container nav .navRight .buttonWrapper .bi-list{
     font-weight: bolder;
     font-size: 25px;
-}
+} */
 
 
 /* input  */
-section .container .inpWraper{
+/* section .container .inpWraper{
     margin: 50px 0;
     display: flex;
     justify-content: flex-end;
@@ -67,8 +67,8 @@ section .container .inpWraper input{
     border:  1px solid #f4f6f6;
     transition: .3s ease ;
     /* outline: #f26524; */
-}
-section .container .inpWraper input::placeholder{
+} */
+/* section .container .inpWraper input::placeholder{
     font-size: 17px;
     color: #999;
 }
@@ -131,7 +131,7 @@ section .container main .rightMain .box{
 section .container main .rightMain .box i{
     color: #f26524;
     font-size: 30px;
-} */
+}  */
 
 
 
